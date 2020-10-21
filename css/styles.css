@@ -1,0 +1,172 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: #aaffa9; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #49dab0,
+    #91ecac
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #45d1a9,
+    #91ecac
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+i {
+  color: black;
+  font-size: 20px;
+}
+i:hover {
+  transform: scale(1.5);
+}
+a i {
+  margin-bottom: 20px;
+}
+.col-12 p {
+  margin-bottom: 25px;
+  color: black;
+}
+@font-face {
+  font-family: 'Pacifico';
+  src: url('../assets/Pacifico-Regular.ttf');
+}
+h1 {
+  font-family: Pacifico !important;
+  font-size: 50px;
+  color: #9e314f;
+}
+.blockquote-footer {
+  font-size: 25px;
+}
+.card img {
+  height: 300px !important;
+  transition: transform 0.5s ease;
+}
+.carousel-item {
+  width: 100%;
+  height: 250px;
+}
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+}
+@media screen and (min-width: 768px) {
+  .carousel-item {
+    width: 100%;
+    height: 400px;
+  }
+  .card img {
+    height: 200px !important;
+  }
+  .card img:hover {
+    transform: scale(1.2);
+  }
+}
+@media screen and (min-width: 1000px) {
+  .card img {
+    height: 380px !important;
+  }
+}
+h2 {
+  font-family: 'Pacifico', cursive;
+}
+.card-body p {
+  color: #9e314f;
+  font-family: 'Rowdies', cursive;
+}
+.card {
+  background-color: rgb(255, 173, 198);
+  overflow: hidden;
+}
+ul li a {
+  font-family: 'Rowdies', cursive;
+  font-size: 1.5rem;
+}
+@media screen and (min-width: 768px) {
+  ul li a {
+    font-family: 'Rowdies', cursive;
+    font-size: 2rem;
+  }
+}
+ul li a:hover {
+  color: rgb(204, 49, 95) !important;
+}
+.icono {
+  font-size: 3rem;
+  color: white;
+}
+.contacto {
+  color: #9e314f;
+  font-family: 'Rowdies', cursive;
+  font-size: 2rem;
+}
+#qr {
+  transform: none;
+  height: 200px !important;
+}
+#foto12,
+#foto4,
+#foto3,
+#foto6,
+#foto21,
+#foto27,
+#foto32,
+#foto35 {
+  height: 540px !important;
+}
+@media screen and (min-width: 768px) {
+  #foto12,
+  #foto4,
+  #foto3,
+  #foto6,
+  #foto21,
+  #foto27,
+  #foto32,
+  #foto35 {
+    height: 380px !important;
+  }
+}
+button.mercadopago-button:hover {
+  background-color: #9e314f;
+}
+button a {
+  color: white;
+}
+button a:hover {
+  text-decoration: none;
+  color: white;
+}
+btn-danger {
+  background-color: #9e314f !important;
+}
+/* .navbar {
+  height: 150px;
+} */
+.bg-light {
+  background-image: url('../assets/portada\ 2.jpg');
+}
+.nav-link {
+  margin-right: 0px !important;
+}
+@media screen and (min-width: 768px) {
+  .nav-link {
+    margin-right: 120px;
+  }
+}
+.face {
+  background-color: rgb(255, 173, 198);
+  height: 250px !important;
+}
+.nuevo {
+  flex-basis: 100% !important;
+}
+.nuevo2 {
+  margin-left: 40%;
+}
+@media screen and (min-width: 768px) {
+  .nuevo2 {
+    margin-left: 50%;
+  }
+}
