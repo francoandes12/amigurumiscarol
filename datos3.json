@@ -51,6 +51,18 @@
     {
       "id": 55,
       "nombre": "Kenny South Park"
+    },
+    {
+      "id":56,
+      "nombre":"Gatita blanca"
+    },
+    {
+      "id":57,
+      "nombre":"Pesebre Navideño"
+    },
+    {
+      "id":58,
+      "nombre":"Llaveros de Hipopotamo"
     }
   ]
 }
