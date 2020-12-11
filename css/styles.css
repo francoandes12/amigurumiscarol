@@ -157,7 +157,7 @@ btn-danger {
 }
 .face {
   background-color: rgb(255, 173, 198);
-  height: 250px !important;
+  height: auto;
 }
 .nuevo {
   flex-basis: 100% !important;
