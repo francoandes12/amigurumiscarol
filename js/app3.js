@@ -20,7 +20,6 @@ const cargarPortafolio = () => {
             <p class="card-text text-center">Articulo ${amigurumis.id}</p>
             </div>
             <img
-                id="foto21"
                 loading="lazy"
                 class="img-fluid"
                 src="assets/img/${amigurumis.id}.jpeg"

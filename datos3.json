@@ -53,16 +53,28 @@
       "nombre": "Kenny South Park"
     },
     {
-      "id":56,
-      "nombre":"Gatita blanca"
+      "id": 56,
+      "nombre": "Gatita blanca"
     },
     {
-      "id":57,
-      "nombre":"Pesebre Navideño"
+      "id": 57,
+      "nombre": "Pesebre Navideño"
     },
     {
-      "id":58,
-      "nombre":"Llaveros de Hipopotamo"
+      "id": 58,
+      "nombre": "Llaveros de Hipopotamo"
+    },
+    {
+      "id": 59,
+      "nombre": "Gatito Pusheen."
+    },
+    {
+      "id": 60,
+      "nombre": "Sonajero de Zorrito"
+    },
+    {
+      "id": 61,
+      "nombre": "Conejitos"
     }
   ]
 }

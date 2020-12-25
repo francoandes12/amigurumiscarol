@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 })
 
 const cargarPortafolio = () => {
-  fetch('datos2.json')
+  fetch('datos4.json')
     .then((resp) => {
       return resp.json()
     })
